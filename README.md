@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Alejandro GIL CARDONA WELCOME
+- WELCOME 😃
+- I’m Alejandro GIL CARDONA
 - 👀 I’m interested in JS, CSS and Python
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on greats projets
